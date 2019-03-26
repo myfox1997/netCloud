@@ -5,8 +5,8 @@ module = 'wenzhi'
 action = 'TextClassify'
 
 config = {
-    'secretId': 'AKIDISP8exVwc5KMAl6JH1YszsY0FG2XDkTw',
-    'secretKey': 'JOCl35rNddNuBD4f1EE1by72kFXcU6SY',
+    'secretId': 'xxxxxxxx',
+    'secretKey': 'xxxxxxxxxx',
     'Region': 'gz',
     'method': 'POST'
 }
