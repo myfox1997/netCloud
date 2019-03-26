@@ -6,9 +6,9 @@ import time
 '''
 here is the key of the API
 '''
-APP_ID = '11297825'
-API_Key = 'NTDqXD9NglB22MGg3RRbG9WW'
-Secret_Key = 'LKmODb2nvtyegvgqx3qp31Gh1TtngSyK'
+APP_ID = 'xxxxxxxxx'
+API_Key = 'xxxxxxx'
+Secret_Key = 'xxxxxxxxxxxxx'
 
 client = AipNlp(APP_ID, API_Key, Secret_Key)
 
