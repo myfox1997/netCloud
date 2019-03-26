@@ -14,9 +14,9 @@ import re
 '''
 here is the key of the API
 '''
-APP_ID = '11297825'
-API_Key = 'NTDqXD9NglB22MGg3RRbG9WW'
-Secret_Key = 'LKmODb2nvtyegvgqx3qp31Gh1TtngSyK'
+APP_ID = 'xxxxxxxxxx'
+API_Key = 'xxxxxxxxxxxxxxxxx'
+Secret_Key = 'xxxxxxxxxxxxxxxxxxxx'
 
 client = AipNlp(APP_ID, API_Key, Secret_Key)  # init the client
 
